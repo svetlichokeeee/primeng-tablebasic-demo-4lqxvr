@@ -1,0 +1,64 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "172-129",
+			"name": "04.05.2021",
+			"description": "Product Description",
+			"image": "bamboo-watch.jpg",
+			"price": 65,
+			"category": "10.05.2021",
+			"quantity": 24,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1001",
+			"code": "172-130",
+			"name": "04.06.2021",
+			"description": "Product Description",
+			"image": "black-watch.jpg",
+			"price": 72,
+			"category": "10.06.2021",
+			"quantity": 61,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		},
+		{
+			"id": "1002",
+			"code": "172-131",
+			"name": "04.07.2021",
+			"description": "Product Description",
+			"image": "blue-band.jpg",
+			"price": 79,
+			"category": "10.07.2021",
+			"quantity": 2,
+			"inventoryStatus": "LOWSTOCK",
+			"rating": 3
+		},
+		{
+			"id": "1003",
+			"code": "172-132",
+			"name": "04.08.2021",
+			"description": "Product Description",
+			"image": "blue-t-shirt.jpg",
+			"price": 29,
+			"category": "10.08.2021",
+			"quantity": 25,
+			"inventoryStatus": "INSTOCK",
+			"rating": 5
+		},
+		{
+			"id": "1004",
+			"code": "172-133",
+			"name": "04.09.2021",
+			"description": "Product Description",
+			"image": "bracelet.jpg",
+			"price": 15,
+			"category": "10.09.2021",
+			"quantity": 73,
+			"inventoryStatus": "INSTOCK",
+			"rating": 4
+		}
+	]
+}
